@@ -1,0 +1,17 @@
+D:\2018年\文档\2018技术文档\曲线图\AreaGraphs\AreaGraphs\bin\Debug\AreaGraphs.exe
+D:\2018年\文档\2018技术文档\曲线图\AreaGraphs\AreaGraphs\bin\Debug\AreaGraphs.pdb
+D:\2018年\文档\2018技术文档\曲线图\AreaGraphs\AreaGraphs\obj\Debug\AreaGraphs.csprojResolveAssemblyReference.cache
+D:\2018年\文档\2018技术文档\曲线图\AreaGraphs\AreaGraphs\obj\Debug\AreaGraphs.Form1.resources
+D:\2018年\文档\2018技术文档\曲线图\AreaGraphs\AreaGraphs\obj\Debug\AreaGraphs.Properties.Resources.resources
+D:\2018年\文档\2018技术文档\曲线图\AreaGraphs\AreaGraphs\obj\Debug\AreaGraphs.csproj.GenerateResource.Cache
+D:\2018年\文档\2018技术文档\曲线图\AreaGraphs\AreaGraphs\obj\Debug\AreaGraphs.exe
+D:\2018年\文档\2018技术文档\曲线图\AreaGraphs\AreaGraphs\obj\Debug\AreaGraphs.pdb
+D:\2018年\文档\2018技术文档\曲线图\AreaGraphs\AreaGraphs\obj\Debug\AreaGraphs.GraphExhibition.resources
+D:\2018年\文档\2018技术文档\GDI+\曲线图\AreaGraphs\AreaGraphs\obj\Debug\AreaGraphs.exe
+D:\2018年\文档\2018技术文档\GDI+\曲线图\AreaGraphs\AreaGraphs\obj\Debug\AreaGraphs.pdb
+D:\2018年\文档\2018技术文档\GDI+\曲线图\AreaGraphs\AreaGraphs\bin\Debug\AreaGraphs.exe
+D:\2018年\文档\2018技术文档\GDI+\曲线图\AreaGraphs\AreaGraphs\bin\Debug\AreaGraphs.pdb
+D:\2018年\文档\2018技术文档\GDI+\曲线图\AreaGraphs\AreaGraphs\obj\Debug\AreaGraphs.csprojResolveAssemblyReference.cache
+D:\2018年\文档\2018技术文档\GDI+\曲线图\AreaGraphs\AreaGraphs\obj\Debug\AreaGraphs.Form1.resources
+D:\2018年\文档\2018技术文档\GDI+\曲线图\AreaGraphs\AreaGraphs\obj\Debug\AreaGraphs.Properties.Resources.resources
+D:\2018年\文档\2018技术文档\GDI+\曲线图\AreaGraphs\AreaGraphs\obj\Debug\AreaGraphs.csproj.GenerateResource.Cache
